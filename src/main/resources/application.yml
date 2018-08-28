@@ -1,0 +1,10 @@
+server:
+  port: 8899
+
+
+
+dinfo:
+  dispatcher:
+    library:
+      path: /Users/yangxuefeng/Documents/lib/
+      tempPath: /Users/yangxuefeng/Documents/temp/
